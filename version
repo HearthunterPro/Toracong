@@ -1,0 +1,11 @@
+Plugin: Toracong
+Version: 1.0
+Enable: true
+<sql
+localhost: den1.mysql3.gear.host
+port: 3306
+username: cushyproject23
+password: Bv459bMjYo_?
+db: cushyproject23
+tb: null
+sql>
